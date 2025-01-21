@@ -1,36 +1,36 @@
-# Back-End and Artificial Intelligence Training - ONE & Alura
+# Formação Back-End e Inteligência Artificial - ONE & Alura
 
-This repository contains all activities, assignments, exams, and codes developed during the **Back-End and AI Training** offered by **Oracle Next Education (ONE)** in partnership with **Alura**.
+Este repositório contém todas as atividades, trabalhos, provas e códigos desenvolvidos durante a **Formação Back-End e IA** oferecida pela **Oracle Next Education (ONE)** em parceria com a **Alura**. 
 
-## 📘 Repository Content
+## 📘 Conteúdo do Repositório
 
-The repository covers various topics from the training program, including:
+O repositório abrange diversos tópicos da formação, incluindo:
 
-- **Programming Logic with JavaScript**  
-  Exercises and projects related to the introduction and practice of fundamental programming concepts using JavaScript.
+- **Lógica de Programação com JavaScript**  
+  Exercícios e projetos relacionados à introdução e prática de conceitos fundamentais de programação usando JavaScript.
 
-- **Java: Inheritance, Interface, and Exceptions**  
-  Implementations of advanced object-oriented programming concepts, such as inheritance, interfaces, and error handling in Java.
+- **Java: Herança, Interface e Exceções**  
+  Implementações de conceitos avançados de orientação a objetos, como herança, interfaces e tratamento de erros em Java.
 
 - **Spring Framework**  
-  Practical work using the Spring Framework, focusing on building robust and scalable applications.
+  Trabalhos práticos utilizando o Spring Framework, com foco no desenvolvimento de aplicações robustas e escaláveis.
 
-- **AI and Java Integrations**  
-  Integrations between artificial intelligence models and Java applications, exploring the use of modern libraries and APIs.
+- **Integrações de IA e Java**  
+  Integrações entre modelos de inteligência artificial e aplicações Java, explorando o uso de bibliotecas e APIs modernas.
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-This repository aims to share and document progress and learning throughout the training program, as well as serve as a reference for future studies.
+Este repositório tem como objetivo compartilhar e documentar o progresso e aprendizado ao longo da formação, além de servir como referência para estudos futuros. 
 
-> **Note:** All content in this repository was developed by me and is my original work. The files and codes are shared **for academic and educational purposes only**, adhering to academic ethics and integrity.
+> **Nota:** Todo o conteúdo aqui presente foi desenvolvido por mim e é de minha autoria. Os arquivos e códigos são compartilhados **somente para fins acadêmicos e estudantis**, respeitando a ética e integridade acadêmica.
 
-## 📬 Contact
+## 📬 Contato
 
-If you have any questions or suggestions, feel free to reach out:
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
 - **Email:** [Cavalcanti.c.raissa@gmail.com](mailto:Cavalcanti.c.raissa@gmail.com)  
 - **LinkedIn:** [Raíssa Cavalcanti](https://www.linkedin.com/in/cavalcantiraissa/)
 
 ---
 
-> *"Learning is a continuous process, and sharing knowledge is a way to enhance it."*
+> *"O aprendizado é um processo contínuo, e compartilhar conhecimento é uma forma de potencializá-lo."*
