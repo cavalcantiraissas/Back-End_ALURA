@@ -33,4 +33,4 @@ Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contat
 
 ---
 
-> *"O aprendizado é um processo contínuo, e compartilhar conhecimento é uma forma de potencializá-lo."*
+> *"O aprendizado é um processo contínuo, e compartilhar conhecimento é uma forma de potencializá-lo. :) "*
